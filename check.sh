@@ -7,9 +7,9 @@ clear
 function banner(){
 		echo -e "\t${p}_________________________"
 		echo -e "\t${h}  TOOLS SCANNING PROXY"
-		echo -e "\t${p}   Author${m}: ${p}KumpulanRemaja "
-		echo -e "\t${p}    KumpulanRemaja.com"
-		echo -e "\t${p}    Recode bye RusmanaID "
+		echo -e "\t${p}   Author${m}: ${p}BANTENG•°•SQUAD™ "
+		echo -e "\t${p}    BANTENG•°•SQUAD™"
+		echo -e "\t${p}    RECODE BY MAS MUKLAS™ "
 		echo -e "\t${p}_________________________"
 	   	
 }
